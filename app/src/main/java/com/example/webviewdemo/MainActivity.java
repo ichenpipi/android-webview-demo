@@ -56,8 +56,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // 加载指定网页
-        // String url = "https://chenpipi.cn";
-        String url = "http://192.168.137.1:7456";
+        String url = "https://chenpipi.cn";
+        // String url = "http://192.168.137.1:7456";
         webView.loadUrl(url);
     }
 
